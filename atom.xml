@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Kinhiox</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://kinhiox.com/"/>
   <updated>2016-09-16T11:56:05.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kinhiox.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ke Yuwang</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/16/hello-world/"/>
-    <id>http://yoursite.com/2016/09/16/hello-world/</id>
+    <link href="http://kinhiox.com/2016/09/16/hello-world/"/>
+    <id>http://kinhiox.com/2016/09/16/hello-world/</id>
     <published>2016-09-16T11:56:05.000Z</published>
     <updated>2016-09-16T11:56:05.000Z</updated>
     
